@@ -8,7 +8,7 @@ jobs:
         repo: ["PatrickKinnear/homepage"]
     steps:
       - name: Push to repo
-        uses: peter-evans/repository-dispatch@v1
+        uses: peter-evans/repository-dispatch@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           repository: ${{ matrix.repo }}
