@@ -1,4 +1,4 @@
-name: Dispatch to repo
+name: Dispatch-to-repo
 on: [push, workflow_dispatch]
 jobs:
   dispatch:
