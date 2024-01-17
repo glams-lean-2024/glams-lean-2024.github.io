@@ -29,7 +29,7 @@ url: "https://glams-lean-2024.github.io" # the base hostname & protocol for your
 # github_username:  jekyll
 
 # Theme settings
-remote-theme: jekyll/minima
+theme: minima
 minima:
   skin: auto
 
