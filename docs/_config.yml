@@ -28,8 +28,12 @@ url: "https://glams-lean-2024.github.io" # the base hostname & protocol for your
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
+# Theme settings
+remote-theme: jekyll/minima
+minima:
+  skin: auto
+
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
 
