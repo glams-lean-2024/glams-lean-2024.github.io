@@ -36,3 +36,7 @@ So, in this course we will be learning about the Lean proof assistant in general
 | 9 | - |
 | 10 | - |
 
+
+# Projects
+
+Potential projects:
