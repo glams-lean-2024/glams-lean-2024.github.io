@@ -14,4 +14,4 @@ This is the course webpage for Formalising Mathematics in Lean, an introductory 
 
 **SSFM**: Sporadic Seminars in Formalising Mathematics <br/>
 > To encourage one another to formalise, we will be holding sporadic seminars called Sporadic Seminars in Formalising Mathematics (SSFM). This can be online (on Discord) or in-person before/after each session. <br/>
-> See more on the Discord server under (#ssfm) and the SSFM page here.
+> See more on the Discord server under (#ssfm) and the SSFM page [here](/ssfm).
