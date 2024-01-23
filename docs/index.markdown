@@ -6,7 +6,9 @@ This is the course webpage for Formalising Mathematics in Lean, an introductory 
 
 **When**: Tuesdays 10:00 - 11:30.
 
-**Where**: Locations in Glasgow/Edinburgh TBC.
+**Where**: 
+- Edinburgh: JCMB 5323
+- Glasgow: TBC
 
 **Chat**: Discord (invitations to the server are sent after signing up to the course).
 
