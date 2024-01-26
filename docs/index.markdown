@@ -8,7 +8,7 @@ This is the course webpage for Formalising Mathematics in Lean, an introductory 
 
 **Where**: 
 - Edinburgh: JCMB 5323
-- Glasgow: TBC
+- Glasgow: ARC 224
 
 **Chat**: Discord (invitations to the server are sent after signing up to the course).
 
