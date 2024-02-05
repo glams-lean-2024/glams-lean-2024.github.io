@@ -11,7 +11,7 @@ This is the course webpage for Formalising Mathematics in Lean, an introductory 
 - Edinburgh: JCMB 5323
 - Glasgow:
     - 30th of January - ARC 224 <br>
-    - 6th of February - TBC <br>
+    - 6th of February - Boyd Orr 420 <br>
     - 13th of February onwards - Room 309, Maths & Stats building
 
 **Chat**: Discord (invitations to the server are sent after signing up to the course).
