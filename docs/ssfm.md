@@ -15,6 +15,7 @@ Please go on Discord to request for a spot.
    **Title.**<br>
    Improving my pen-and-paper proofs in introductory number theory using Lean<br><br>
    **Abstract.**<br>
-   Join me in exploring the impact of Lean on my number theory pen-and-paper proofs. Discover the surprising transformations of my pen-and-paper proofs -- from clarity to rigour and conciseness -- as Lean scrutinised and enhanced my understanding.<br>
+   Join me in exploring the impact of Lean on my number theory pen-and-paper proofs. Discover the surprising transformations of my pen-and-paper proofs -- from clarity to rigour and conciseness -- as Lean scrutinised and enhanced my understanding.<br><br>
+   See slides [here](files/ssfm_24_2_6.pdf).
    <p align="right">Alex Brodbelt, University of Edinburgh</p>
 
