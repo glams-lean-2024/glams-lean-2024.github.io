@@ -26,5 +26,9 @@ This is the course webpage for Formalising Mathematics in Lean, an introductory 
    For PhD students taking this course for credit[^2], you will need to complete a (group) project. When the time comes (around week 5), there will be a "projects" page here with more information.  
    But please speak to us <mark>before</mark> beginning your project, to discuss <mark>feasibility</mark> and <mark>credit-worthiness</mark>.
 
+---
+
+
 [^1]: The invite to the Discord server should be in the email(s) we send out. If you are having trouble finding it, then please reach out.
+
 [^2]: counts as much as any other SMSTC/GlaMS course!
