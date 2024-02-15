@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Schedule
+title: Homework
 ---
 
 The homework sheets folder can be found here: [`Formal2024/Homeworks/`](https://github.com/glams-lean-2024/formal-2024/tree/main/Formal2024/Homeworks).
