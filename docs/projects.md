@@ -15,7 +15,7 @@ Anyone taking this course for a credit will need to complete a (group) project.
     - This can be something new you want to add to `mathlib`.
     - It can also be some result from your research.
 > Note.
-> In some cases, formalising the statement of a theorem can be enough.
+> In some cases, formalising the statement of the theorem can be enough.
 - A project can also be a game that explains a topic in mathematics using Lean
     - This can be a topic in Analysis, Topology, Algebra, Graph theory, etc...
     - Check out the [template](https://github.com/hhu-adam/GameSkeleton).
