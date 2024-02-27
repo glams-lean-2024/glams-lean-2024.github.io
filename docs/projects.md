@@ -5,8 +5,7 @@ title: Projects
 
 Anyone taking this course for a credit will need to complete a (group) project.
 
-> [!IMPORTANT]
-> Deadline for choosing projects is on the **11th of March**.
+<u><b>Deadline</b></u> for choosing projects is on the **11th of March**.
 
 ## What is a project?
 
@@ -15,7 +14,7 @@ Anyone taking this course for a credit will need to complete a (group) project.
     - This can be a theorem that already exists in `mathlib`. You can reinvent the wheel!
     - This can be something new you want to add to `mathlib`.
     - It can also be some result from your research.
-> [!NOTE]
+> Note.
 > In some cases, formalising the statement of a theorem can be enough.
 - A project can also be a game that explains a topic in mathematics using Lean
     - This can be a topic in Analysis, Topology, Algebra, Graph theory, etc...
