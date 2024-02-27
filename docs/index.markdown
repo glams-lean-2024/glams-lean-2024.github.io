@@ -23,7 +23,7 @@ This is the course webpage for Formalising Mathematics in Lean, an introductory 
 
 - **Credit**:
 
-   For PhD students taking this course for credit[^2], you will need to complete a (group) project. When the time comes (around week 5), there will be a "projects" page here with more information.  
+   For PhD students taking this course for credit[^2], you will need to complete a (group) project. See the project page [here](/projects) for more information.  
    But please speak to us <mark>before</mark> beginning your project, to discuss <mark>feasibility</mark> and <mark>credit-worthiness</mark>.
 
 ---
