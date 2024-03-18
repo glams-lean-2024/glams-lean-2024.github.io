@@ -12,4 +12,9 @@ The homework sheets folder can be found here: [`Formal2024/Homeworks/`](https://
 | 3    | 1. As per the updated [`README.md`](https://github.com/glams-lean-2024/formal-2024/blob/main/README.md#working-on-the-repository) file, please create a copy of the folder `Formal2024` so that you do not get any merge conflicts when pulling any updates <br><br> 2. Continue working on [`Formal2024/Workshops/workshop3.lean`](https://github.com/glams-lean-2024/formal-2024/tree/main/Formal2024/Workshops/workshop3.lean) <br><br> 3. Work on [`Formal2024/Homeworks/homework3.lean`](https://github.com/glams-lean-2024/formal-2024/tree/main/Formal2024/Homeworks/homework3.lean) |
 | 4    | 1. Continue working on [`Formal2024/Workshops/workshop4.lean`](https://github.com/glams-lean-2024/formal-2024/tree/main/Formal2024/Workshops/workshop4.lean) <br><br> 2. Work on [`Formal2024/Homeworks/homework4.lean`](https://github.com/glams-lean-2024/formal-2024/tree/main/Formal2024/Homeworks/homework4.lean) |
 | 5    | 1. Continue working on  [`Formal2024/Workshops/workshop5.lean`](https://github.com/glams-lean-2024/formal-2024/tree/main/Formal2024/Workshops/workshop5.lean) <br><br> 2. Work on [`Formal2024/Homeworks/homework5.lean`](https://github.com/glams-lean-2024/formal-2024/tree/main/Formal2024/Homeworks/homework5.lean) <br><br> 3. Work on the exercises for this week: [`Formal2024/Exercises/ex5.lean`](https://github.com/glams-lean-2024/formal-2024/blob/main/Formal2024/Exercises/ex5.lean) <br><br> 4. Think about the projects for next week! |
-| 6    | |
+| 6    | 1. [`Formal2024/Homeworks/homework6.lean`](https://github.com/glams-lean-2024/formal-2024/tree/main/Formal2024/Homeworks/homework6.lean) |
+| -    | break/office-hours |
+| 7    | Projects! |
+| 8    | Projects! |
+| 9    | Projects! |
+| 10   | Projects! |
