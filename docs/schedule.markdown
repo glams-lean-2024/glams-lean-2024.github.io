@@ -14,7 +14,7 @@ The workshop sheets can be found here: [`Formal2024/Workshops/`](https://github.
 | 5    | 1. [`Formal2024/Workshops/workshop5.lean`](https://github.com/glams-lean-2024/formal-2024/tree/main/Formal2024/Workshops/workshop5.lean) <br><br> 2. Intro to projects ([slides](https://glams-lean-2024.github.io/files/ForMaL_projects_slides.pdf)) |
 | 6    | 1. Continue [`Formal2024/Workshops/workshop5.lean`](https://github.com/glams-lean-2024/formal-2024/tree/main/Formal2024/Workshops/workshop5.lean) <br><br> 2. [`Formal2024/Workshops/workshop6.lean`](https://github.com/glams-lean-2024/formal-2024/tree/main/Formal2024/Workshops/workshop6.lean) |
 | -    | break / office-hours |
-| 7    | 1. [slides](/ForMaL_week_7.pdf) <br><br> 2. [`Formal2024/Workshops/workshop7.lean`](https://github.com/glams-lean-2024/formal-2024/tree/main/Formal2024/Workshops/workshop7.lean) |
+| 7    | 1. [slides](files/ForMaL_week_7.pdf) <br><br> 2. [`Formal2024/Workshops/workshop7.lean`](https://github.com/glams-lean-2024/formal-2024/tree/main/Formal2024/Workshops/workshop7.lean) |
 | 8    | |
 | 9    | |
 | 10   | |
