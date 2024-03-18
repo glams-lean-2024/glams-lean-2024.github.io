@@ -31,7 +31,7 @@ So, in this course we will be learning about the Lean proof assistant in general
 | 4    | Sets, the differences between sets and types, and a brief on what a type actually is |
 | 5    | Projects introduction & Inductive types |
 | 6    | Structures & type classes |
-| 7    | Debugging and **deadline** for choosing projects |
+| 7    | Diamonds and **deadline** for choosing projects |
 | 8    | Translating pen-and-paper mathematics to Lean 1 |
 | 9    | Translating pen-and-paper mathematics to Lean 2 |
 | 10   | Tactic writing, notation, etc... |
